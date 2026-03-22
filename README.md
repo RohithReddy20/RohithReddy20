@@ -32,12 +32,6 @@ I build end-to-end systems that integrate LLMs into real-world workflows. I pref
 * **The Constraint:** Rendering forms with 1,000+ extracted fields simultaneously crashed the browser. Fixed by implementing UI virtualization to lock the page at 60fps.
 * **The Outcome:** Processing thousands of documents daily, the system entirely skips manual review for extractions scoring above 98%, routing only edge cases to human operators.
 
-### Gen AI Platform
-* **The Problem:** The Reserve Bank of India needed to search and query across a 10,000+ page secure document corpus without data ever leaving their infrastructure.
-* **The System:** Led the end-to-end design and implementation of a local React and tRPC chat interface connected to a Node.js backend. The server handles document chunking, custom embeddings, and streams tokens to the client over Server-Sent Events.
-* **The Constraint:** Maintaining multi-turn conversation state across massive contexts while keeping the ingestion pipeline decoupled so users could hot-swap embedding models without downtime.
-* **The Outcome:** Delivered the platform in 6 weeks, securing a critical contract and enabling fast, reliable access to previously fragmented policy data for internal teams.
-
 ---
 
 ## Professional Experience
