@@ -20,7 +20,7 @@ I build end-to-end systems that integrate LLMs into real-world workflows. I pref
 
 ## Featured Work
 
-### [Supply Genie]([ADD GITHUB LINK HERE])
+### [Supply Genie](https://github.com/RohithReddy20/supply-genie)
 * **The Problem:** Resolving a delayed shipment involves messy manual coordination—checking an API, making a phone call, and updating Slack.
 * **The System:** A FastAPI backend that handles supply chain exceptions by coordinating actions across external APIs, voice calls, and chat using a state-driven approach.
 * **The Constraint:** Keeping system state consistent during live voice interactions while handling low-latency Twilio streams and unpredictable external API failures.
