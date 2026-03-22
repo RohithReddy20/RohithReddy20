@@ -2,7 +2,7 @@
 
 I build end-to-end systems that integrate LLMs into real-world workflows. I prefer systems that are observable, predictable, and don't fall apart under load. Currently building at NEWGEN.
 
-[Portfolio]([ADD PORTFOLIO LINK HERE]) • [LinkedIn](https://linkedin.com/in/chimpiri-rohith) • [Email](mailto:rohith18151821@gmail.com)
+[Portfolio]([https://rohith-reddy-20.vercel.app/]) • [LinkedIn](https://linkedin.com/in/chimpiri-rohith) • [Email](mailto:rohith18151821@gmail.com)
 
 ---
 
